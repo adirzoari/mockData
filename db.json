@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "mockV1":[{"id":1,"title":"Hyundai","body":"NASDAQ","user_id":"18e4c597-eb93-45fb-9603-dbb44b5fa760"},
+  "mock":[{"id":1,"title":"Hyundai","body":"NASDAQ","user_id":"18e4c597-eb93-45fb-9603-dbb44b5fa760"},
 {"id":2,"title":"Volkswagen","body":"NASDAQ","user_id":"fef0759f-89b9-4ee4-9a94-38c612d52c42"},
 {"id":3,"title":"Chrysler","body":"NYSE","user_id":"c516b986-e195-4e4f-8868-4be1b3d7206b"},
 {"id":4,"title":"Volkswagen","body":"NYSE","user_id":"8656aa93-10d7-410b-a1a4-166e594fd71e"},
